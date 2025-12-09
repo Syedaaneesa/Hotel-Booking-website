@@ -1,6 +1,6 @@
 #🏨 Hotel Booking Platform – Modern WordPress Development Project
 
-This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to highlight their expert serviced office and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate layout.
+This project showcases a fully customized WordPress hotel booking website, designed to highlight premium rooms, modern amenities, and a seamless reservation experience through a clean, user-friendly layout.
 
 ---
 
@@ -22,13 +22,12 @@ Below are visuals that highlight the website and its main features:
 
 This website was fully developed in WordPress, featuring a custom theme, optimized plugins, and design elements tailored to reflect the brand’s visual identity.
 ### Key Highlights:
-– A modern, fully responsive corporate layout ensuring seamless experience on desktop, tablet, and mobile devices.
-– Professional typography and trusted blue-tone color palette to convey reliability and expertise.
-– Secure, GDPR-compliant contact forms with automated email notifications and spam protection.
-– Clean service showcase sections with icons and detailed breakdowns for easy navigation.
-– SEO-optimized structure with local business schema, fast-loading compressed images, and clean code.
-– Custom Elementor templates and organized page structure for effortless future content updates and maintenance.
-
+– A modern, fully responsive hotel booking layout ensuring a smooth experience across desktop, tablet, and mobile devices.
+– Elegant typography and a warm, hospitality-focused color palette to create a welcoming and trustworthy feel.
+– Secure, GDPR-compliant booking and inquiry forms with automated confirmations and strong spam protection.
+– Clean room and amenities showcase sections with icons, descriptions, and easy navigation for guests.
+– SEO-optimized structure with hotel schema, fast-loading images, and clean code for better visibility in search results.
+– Custom Elementor templates and a well-organized page structure to support effortless future updates and content management.
 ---
 
 ## ⚙️ Resources & Tools Used
@@ -61,7 +60,7 @@ This website was fully developed in WordPress, featuring a custom theme, optimiz
 
 ## 💡 Learnings & Achievements
 
-This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to highlight their expert serviced office and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate layout.
+This project showcases a fully customized WordPress hotel booking website, designed to highlight premium rooms, amenities, and seamless reservation services through a professional, user-friendly, and guest-focused layout.
 ---
 
 ## 📬 Contact
