@@ -1,4 +1,4 @@
-# 🏢 JPM HomeLets Ltd – Professional WordPress Maintenance Project
+#🏨 Hotel Booking Platform – Modern WordPress Development Project
 
 This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to highlight their expert serviced office and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate layout.
 
