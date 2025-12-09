@@ -13,9 +13,9 @@ Below are visuals that highlight the website and its main features:
 ![Gallery Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image4.png)
 ![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image5.png)
 ![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image6.png)
-![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image7.png)
 ![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image8.png)
 ![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image9.png)
+![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image7.png)
 ---
 
 ## 🛠️ Project Overview
