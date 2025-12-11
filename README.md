@@ -1,6 +1,6 @@
 #🏨 Hotel Booking Platform – Modern WordPress Development Project
 
-This project highlights a fully tailored WordPress hotel booking website, crafted to showcase premium rooms, modern amenities, and a smooth, intuitive reservation experience through an elegant, user-friendly design.
+This project showcases a fully customized WordPress hotel booking website, designed to highlight premium rooms, modern amenities, and a seamless reservation experience through a refined, user-friendly interface.
 
 ---
 
@@ -20,14 +20,19 @@ Below are visuals that highlight the website and its main features:
 
 ## 🛠️ Project Overview
 
-This website was built entirely in WordPress, featuring a custom-designed theme, optimized plugins, and carefully crafted design elements that align seamlessly with the brand’s visual identity.
+This website is fully developed in WordPress, featuring a custom-built theme, optimized plugins, and thoughtfully crafted design elements that align perfectly with the brand’s visual identity.
 ### Key Highlights:
-– A modern, fully responsive hotel booking layout ensuring a smooth experience across desktop, tablet, and mobile devices.
-– Elegant typography and a warm, hospitality-focused color palette to create a welcoming and trustworthy feel.
-– Secure, GDPR-compliant booking and inquiry forms with automated confirmations and strong spam protection.
-– Clean room and amenities showcase sections with icons, descriptions, and easy navigation for guests.
-– SEO-optimized structure with hotel schema, fast-loading images, and clean code for better visibility in search results.
-– Custom Elementor templates and a well-organized page structure to support effortless future updates and content management.
+A modern, fully responsive hotel booking design that ensures a seamless experience on desktop, tablet, and mobile devices.
+
+Refined typography and a warm, hospitality-inspired color palette to convey a welcoming and trustworthy atmosphere.
+
+Secure, GDPR-compliant booking and inquiry forms with automated confirmations and effective spam protection.
+
+Clear and organized room and amenities sections featuring icons, descriptions, and easy navigation for guests.
+
+SEO-friendly structure with hotel schema, optimized images, and clean code to boost search engine visibility.
+
+Custom Elementor templates and a structured page layout for easy future updates and efficient content management.
 ---
 
 ## ⚙️ Resources & Tools Used
