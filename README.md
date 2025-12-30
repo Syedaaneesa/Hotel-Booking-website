@@ -1,6 +1,6 @@
 #🏨 Hotel Booking Platform – Modern WordPress Development Project
 
-This project features a fully custom WordPress hotel booking website, showcasing luxury accommodations, modern amenities, and delivering a seamless, user-friendly reservation experience through an elegant interface.
+This project presents a fully custom WordPress hotel booking website, highlighting luxury accommodations and modern amenities while providing a seamless, user-friendly reservation experience through an elegant interface.
 
 ---
 
@@ -22,15 +22,15 @@ Below are visuals that highlight the website and its main features:
 
 This website was fully developed using WordPress, incorporating a custom theme, optimized plugins, and carefully designed elements that accurately reflect the brand’s visual identity.
 ### Key Highlights:
-A modern, fully responsive hotel booking design delivering a seamless experience across desktop, tablet, and mobile devices.
+Modern, fully responsive hotel booking design providing a seamless experience across desktop, tablet, and mobile devices
 
-Carefully selected typography and a warm, hospitality-inspired color palette to convey trust and a welcoming ambiance.
+Thoughtfully chosen typography paired with a warm, hospitality-inspired color palette to convey trust and a welcoming atmosphere
 
-Secure, GDPR-compliant booking and inquiry forms with automated confirmations and robust spam protection.
+Secure, GDPR-compliant booking and inquiry forms with automated confirmations and strong spam protection
 
-Organized room and amenities sections featuring clear descriptions, intuitive icons, and easy navigation for guests.
+Well-organized room and amenities sections with clear descriptions, intuitive icons, and easy navigation for guests
 
-SEO-optimized structure with hotel schema, optimized images, and clean code to enhance search engine visibility.
+SEO-optimized structure with hotel schema, optimized images, and clean code to improve search engine visibility
 
 Custom Elementor templates and a structured page layout for easy future updates and efficient content management.
 ---
@@ -65,7 +65,7 @@ Custom Elementor templates and a structured page layout for easy future updates 
 
 ## 💡 Learnings & Achievements
 
-This project features a fully custom WordPress hotel booking website, designed to showcase luxury rooms, essential amenities, and deliver a seamless, guest-focused booking experience through a refined interface.
+This project features a fully custom WordPress hotel booking website, showcasing luxury rooms and essential amenities while delivering a smooth, guest-centric booking experience through a polished interface.
 ---
 
 ## 📬 Contact
