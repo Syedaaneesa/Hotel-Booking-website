@@ -34,7 +34,7 @@ SEO-optimized site structure incorporating hotel schema, optimized imagery, and 
 Custom Elementor templates and a structured page layout for easy future updates and efficient content management.
 ---
 
-## ⚙️ Resources & Tools Used
+##  Resources & Tools Used
 
 | Category | Tools/Plugins/Resources |
 |-----------|--------------------------|
@@ -49,7 +49,7 @@ Custom Elementor templates and a structured page layout for easy future updates 
 
 ---
 
-## 🧩 Effort Breakdown
+##  Effort Breakdown
 
 | Task | Description |
 |------|--------------|
@@ -62,7 +62,7 @@ Custom Elementor templates and a structured page layout for easy future updates 
 
 ---
 
-## 💡 Learnings & Achievements
+##  Learnings & Achievements
 This project showcases a fully customized WordPress hotel booking website featuring luxury rooms and essential amenities, delivered through a seamless and guest-centric booking experience.
 ---
 
