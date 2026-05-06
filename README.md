@@ -1,10 +1,10 @@
-🏨 Modern Hotel Booking Platform – WordPress Development Project
+ Modern Hotel Booking Platform – WordPress Development Project
 
 This project highlights a fully customized WordPress hotel booking website offering luxury accommodations and modern amenities through a refined, user-friendly reservation system.
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 Below are visuals that highlight the website and its main features:
 
 ![Home Page](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image1.png)
@@ -18,7 +18,7 @@ Below are visuals that highlight the website and its main features:
 ![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image7.png)
 ---
 
-## 🛠️ Project Overview
+##  Project Overview
 This website was entirely built on WordPress using a custom theme, carefully selected plugins, and well-crafted design elements that reflect the brand’s visual identity.
 ### Key Highlights:
 A contemporary, fully responsive hotel booking interface delivering a seamless and consistent experience across desktop, tablet, and mobile devices.
