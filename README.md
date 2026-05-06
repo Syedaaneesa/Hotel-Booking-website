@@ -66,10 +66,10 @@ Custom Elementor templates and a structured page layout for easy future updates 
 This project showcases a fully customized WordPress hotel booking website featuring luxury rooms and essential amenities, delivered through a seamless and guest-centric booking experience.
 ---
 
-## 📬 Contact
+##  Contact
 If you’re seeking professional WordPress or Elementor solutions, I’d be glad to collaborate—just reach out anytime!
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
 **🌍 Portfolio:** https://aneesa.zeestmedia.com
 
 ---
