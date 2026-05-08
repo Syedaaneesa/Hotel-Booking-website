@@ -69,9 +69,12 @@ This project showcases a fully customized WordPress hotel booking website featur
 ---
 
 ##  Contact
-If you’re seeking professional WordPress or Elementor solutions, I’d be glad to collaborate—just reach out anytime!
+If you’re seeking professional WordPress or Elementor solutions, I’d be glad to collaborate just reach out anytime!
+
 ** Developer:** Syeda Aneesa  
-** Email:** saneesa@zeestmedia.com]  
+
+** Email:** saneesa@zeestmedia.com
+
 ** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
