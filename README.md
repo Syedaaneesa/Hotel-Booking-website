@@ -19,7 +19,8 @@ Below are visuals that highlight the website and its main features:
 ---
 
 ##  Project Overview
-This website was entirely built on WordPress using a custom theme, carefully selected plugins, and well-crafted design elements that reflect the brand’s visual identity.
+This website was entirely built on WordPress using a custom theme, carefully selected plugins, and thoughtfully crafted design elements that reflect the brand’s visual identity. Every section was designed with attention to detail to create a modern, responsive, and user-friendly experience while ensuring smooth performance and easy content management.
+
 ### Key Highlights:
 A contemporary, fully responsive hotel booking interface delivering a seamless and consistent experience across desktop, tablet, and mobile devices.
 
