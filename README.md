@@ -1,4 +1,4 @@
- Modern Hotel Booking Platform – WordPress Development Project
+## Modern Hotel Booking Platform – WordPress Development Project
 
 This project showcases a fully customized WordPress hotel booking website designed to deliver a seamless and professional reservation experience. It features luxury accommodations, premium services, and modern amenities through a clean, elegant, and user-friendly interface. With responsive design, intuitive navigation, and a streamlined booking system, it ensures smooth browsing and easy reservations across all devices.
 
