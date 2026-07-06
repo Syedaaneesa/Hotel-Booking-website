@@ -24,18 +24,16 @@ This website was fully developed on WordPress using a custom theme, carefully se
 ---
 
 ### Key Highlights:
-A contemporary, fully responsive hotel booking interface delivering a seamless and consistent experience across desktop, tablet, and mobile devices.
 
-Thoughtfully chosen typography paired with a warm, hospitality-inspired color scheme to foster trust and create a welcoming atmosphere.
+* **Fully Responsive Design** – A modern hotel booking website optimized for desktop, tablet, and mobile devices, ensuring a seamless browsing and reservation experience across all screen sizes.
 
-Secure, GDPR-compliant booking and inquiry forms with automated confirmations and advanced spam protection.
+* **Elegant Visual Identity** – Thoughtfully selected typography and a warm, hospitality-inspired color palette that create a welcoming atmosphere and strengthen brand credibility.
 
-Well-organized room and amenities sections featuring detailed descriptions, intuitive icons, and smooth, user-friendly navigation.
+* **Secure Booking System** – GDPR-compliant booking and inquiry forms with automated confirmations, advanced spam protection, and a smooth reservation process.
 
-SEO-optimized site structure incorporating hotel schema, optimized imagery, and clean, efficient code to improve search engine visibility.
+* **Well-Organized Room & Amenities Pages** – Clearly structured room listings and amenities sections featuring detailed descriptions, intuitive icons, and user-friendly navigation.
 
-Custom Elementor templates and a structured page layout for easy future updates and efficient content management.
----
+* **SEO-Optimized Performance** – Built with hotel schema markup, optimized images, and clean, efficient code to improve search engine visibility, page speed, and overall website performance.
 
 ##  Resources & Tools Used
 
