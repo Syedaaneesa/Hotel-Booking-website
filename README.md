@@ -35,6 +35,8 @@ This website was fully developed on WordPress using a custom theme, carefully se
 
 * **SEO-Optimized Performance** – Built with hotel schema markup, optimized images, and clean, efficient code to improve search engine visibility, page speed, and overall website performance.
 
+---
+
 ##  Resources & Tools Used
 
 | Category | Tools/Plugins/Resources |
