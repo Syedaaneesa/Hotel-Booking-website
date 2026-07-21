@@ -1,4 +1,4 @@
-## Modern Hotel Booking Platform – WordPress Development Project
+## Modern Hotel Booking Platform - WordPress Development Project
 
 This project showcases a fully customized WordPress hotel booking website designed to deliver a seamless, modern, and professional reservation experience. Featuring luxury accommodations, premium services, and modern amenities, the website combines a clean, elegant, and user-friendly interface with a fully responsive design that ensures an exceptional browsing experience across all devices. Its intuitive navigation and streamlined booking system make it easy for visitors to explore rooms, check availability, and complete reservations effortlessly, creating an engaging user experience while helping hotels establish a strong and professional online presence.
 
@@ -19,15 +19,15 @@ This website was fully developed on WordPress using a custom theme, carefully se
 
 ### Key Highlights:
 
-* **Fully Responsive Design** – A modern hotel booking website optimized for desktop, tablet, and mobile devices, ensuring a seamless browsing and reservation experience across all screen sizes.
+* **Fully Responsive Design** - A modern hotel booking website optimized for desktop, tablet, and mobile devices, ensuring a seamless browsing and reservation experience across all screen sizes.
 
-* **Elegant Visual Identity** – Thoughtfully selected typography and a warm, hospitality-inspired color palette that create a welcoming atmosphere and strengthen brand credibility.
+* **Elegant Visual Identity** - Thoughtfully selected typography and a warm, hospitality-inspired color palette that create a welcoming atmosphere and strengthen brand credibility.
 
-* **Secure Booking System** – GDPR-compliant booking and inquiry forms with automated confirmations, advanced spam protection, and a smooth reservation process.
+* **Secure Booking System** - GDPR-compliant booking and inquiry forms with automated confirmations, advanced spam protection, and a smooth reservation process.
 
-* **Well-Organized Room & Amenities Pages** – Clearly structured room listings and amenities sections featuring detailed descriptions, intuitive icons, and user-friendly navigation.
+* **Well-Organized Room & Amenities Pages** - Clearly structured room listings and amenities sections featuring detailed descriptions, intuitive icons, and user-friendly navigation.
 
-* **SEO-Optimized Performance** – Built with hotel schema markup, optimized images, and clean, efficient code to improve search engine visibility, page speed, and overall website performance.
+* **SEO-Optimized Performance** - Built with hotel schema markup, optimized images, and clean, efficient code to improve search engine visibility, page speed, and overall website performance.
 
 ---
 
@@ -73,6 +73,4 @@ If you’re seeking professional WordPress or Elementor solutions, I’d be glad
 
 **Portfolio:** https://aneesa.zeestmedia.com
 
----
-##  Repository Structure
 
