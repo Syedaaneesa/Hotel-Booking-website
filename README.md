@@ -10,7 +10,6 @@ Below are visuals that highlight the website and its main features:
 ![Home Page](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image1.png)
 ![About Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image2.png)
 ![Rooms Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image3.png)
-![Contact Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image7.png)
 ---
 
 ##  Project Overview
