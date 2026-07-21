@@ -2,7 +2,7 @@
 
 This project showcases a fully customized WordPress hotel booking website designed to deliver a seamless, modern, and professional reservation experience. Featuring luxury accommodations, premium services, and modern amenities, the website combines a clean, elegant, and user-friendly interface with a fully responsive design that ensures an exceptional browsing experience across all devices. Its intuitive navigation and streamlined booking system make it easy for visitors to explore rooms, check availability, and complete reservations effortlessly, creating an engaging user experience while helping hotels establish a strong and professional online presence.
 
----
+
 
 ##  Project Preview
 Below are visuals that highlight the website and its main features:
@@ -10,12 +10,12 @@ Below are visuals that highlight the website and its main features:
 ![Home Page](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image1.png)
 ![About Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image2.png)
 ![Rooms Section](https://github.com/Syedaaneesa/Hotel-Booking-website/blob/main/image3.png)
----
+
 
 ##  Project Overview
 This website was fully developed on WordPress using a custom theme, carefully selected plugins, and thoughtfully crafted design elements that align with the brand’s visual identity. Every section was designed with meticulous attention to detail to deliver a modern, responsive, and user-friendly experience while ensuring fast performance, seamless functionality, and easy content management. The result is a visually appealing, high-performing website that effectively represents the brand and provides an engaging experience across all devices.
 
----
+
 
 ### Key Highlights:
 
@@ -29,7 +29,7 @@ This website was fully developed on WordPress using a custom theme, carefully se
 
 * **SEO-Optimized Performance** - Built with hotel schema markup, optimized images, and clean, efficient code to improve search engine visibility, page speed, and overall website performance.
 
----
+
 
 ##  Resources & Tools Used
 
@@ -44,7 +44,7 @@ This website was fully developed on WordPress using a custom theme, carefully se
 | **Images** | Client-provided and royalty-free stock images |
 | **Performance Optimization** | Image compression, caching, and minified assets |
 
----
+
 
 ##  Effort Breakdown
 
@@ -57,12 +57,12 @@ This website was fully developed on WordPress using a custom theme, carefully se
 | **Testing & Optimization** | Conducted mobile responsiveness tests and speed optimizations. |
 | **Deployment** | Uploaded to live hosting and configured domain/SSL. |
 
----
+
 
 ##  Learnings & Achievements
 This project showcases a fully customized WordPress hotel booking website featuring luxury rooms, premium amenities, and a modern design that delivers a seamless and guest-friendly booking experience across all devices.
 
----
+
 
 ##  Contact
 If you’re seeking professional WordPress or Elementor solutions, I’d be glad to collaborate just reach out anytime!
