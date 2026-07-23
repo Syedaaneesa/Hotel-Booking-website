@@ -69,7 +69,7 @@ If you’re seeking professional WordPress or Elementor solutions, I’d be glad
 
 **Developer:** Syeda Aneesa  
 
-**Email:** saneesa@zeestmedia.com
+**Email:** s.shujaat05@gmail.com
 
 **Portfolio:** https://aneesa.zeestmedia.com
 
